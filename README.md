@@ -81,9 +81,9 @@
 
 ### 스크린샷
 
-![Opening](screenshot1.png)
+![Opening](screenshots/screenshot1.png)
 
-![Camera](screenshot2.png)
+![Camera](screenshots/screenshot2.png)
 
 ---
 
