@@ -79,6 +79,14 @@
 
 ---
 
+### 스크린샷
+
+![Opening](screenshot1.png)
+
+![Camera](screenshot2.png)
+
+---
+
 ## 프로젝트 구조
 
 ```text
