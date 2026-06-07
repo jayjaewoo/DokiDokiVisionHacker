@@ -1,0 +1,14 @@
+VisionFaceHacker/
+├─ main.py
+├─ face_landmarker.task
+├─ requirements.txt
+├─ run_game.bat
+└─ images/
+   ├─ classroom_bg.png
+   ├─ cafe_bg.png
+   ├─ heeji_normal.png
+   ├─ heeji_excited.png
+   ├─ heeji_sad.png
+   ├─ orphee.png
+   ├─ les_amants.png
+   └─ demo_face.png   (선택: 웹캠이 없을 때 테스트용 정면 얼굴 사진)
